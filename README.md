@@ -1,5 +1,7 @@
 # A GenServer cheat sheet
 
+https://www.reddit.com/r/elixir/comments/pav33r/how_should_we_make_unit_tests_for_genservers/
+
 This README describes what GenServers are and some things they can be useful for. The repo serves as a cheat sheet of "best practices" around using one in an elixir application.
 
 # What is a GenServer
